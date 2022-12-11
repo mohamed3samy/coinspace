@@ -48,8 +48,8 @@ const getPrices = () => {
 
 			socketHandler.emit('crypto', priceList);
 		})
-		.catch((err) => {
-			console.error(err);
+		.catch((error) => {
+			console.log(error);
 			socketHandler.emit('crypto', {
 				message: 'Error fetching prices data from api',
 			});
