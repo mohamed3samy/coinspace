@@ -1,0 +1,21 @@
+{
+	"name": "coinspace-api",
+	"version": "1.0.0",
+	"description": "live crypto prices app",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"server": "nodemon server.js"
+	},
+	"author": "mohamed samy",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^0.27.2",
+		"dotenv": "^16.0.3",
+		"express": "^4.18.1",
+		"socket.io": "^4.5.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.20"
+	}
+}

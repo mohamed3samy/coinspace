@@ -1,0 +1,25 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Manrope-Bold.ttf",
+      "sha1": "fd4744b003e034fdf9ff433985088600ed4c6b19"
+    },
+    {
+      "path": "assets/fonts/Manrope-Regular.ttf",
+      "sha1": "7e862264836329a059f38d0fc66b22a4936402e8"
+    },
+    {
+      "path": "assets/fonts/Manrope-VariableFont_wght.ttf",
+      "sha1": "9498933c7a08a783e9104b9dd4d67f4c80bac23f"
+    },
+    {
+      "path": "assets/fonts/OpenSansBold.ttf",
+      "sha1": "0ad533c702f9ac1de717063040426858662cfbcc"
+    },
+    {
+      "path": "assets/fonts/OpenSansRegular.ttf",
+      "sha1": "dc9c07303a2392f9ee02fdb636814970753ac94a"
+    }
+  ]
+}
